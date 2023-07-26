@@ -12,6 +12,8 @@ all ahk scripts that I have made for personal use
 - *ahk-quick-search*
 - *ahk-different-capslock*
 - *ahk-wasd-to-mouse*
+- *ahk-open-apps*
+- *ahk-pin-window*
 
   **Starts suspended**
   
