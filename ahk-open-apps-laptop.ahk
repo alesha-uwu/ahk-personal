@@ -71,10 +71,10 @@ return
 ;Outlook
 
 ^!8::
-  IfWinExist ahk_exe firefox.exe
-    winactivate ahk_exe firefox.exe
+  IfWinExist ahk_exe OUTLOOK.exe
+    winactivate ahk_exe OUTLOOK.exe
   else
-    run, "C:\Program Files\Mozilla Firefox\firefox.exe"
+    run, "C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.exe"
 return
 
 ;Youtube
@@ -85,7 +85,7 @@ return
 
 ;KeePass
 
-^!10::
+^!0::
   IfWinExist ahk_exe KeePass.exe
     winactivate ahk_exe KeePass.exe
   else
