@@ -97,3 +97,9 @@ loop
 	sleep 350	; increase/decrease this to adjust the repeat rate
 } until !(getkeystate("w") || getkeystate("x") || getkeystate("c"))
 return 
+
+;pin window to be always on top
+
+^space::
+  Winset, Alwaysontop, , A
+return

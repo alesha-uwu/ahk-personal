@@ -72,3 +72,27 @@ all ahk scripts that I have made for personal use
   Change the distance (currently either 8 or -8 in the code) to change the speed of movement (larger number is faster movement)
  
   **Doesn't start suspended**
+  
+### ahk-pin-window
+
+  Pins the current window to the top of the stack order when you press Ctrl+Space
+  
+  **Doesn't start suspended**
+  
+### ahk-open-apps
+
+  Open various apps when you press Ctrl and a function key.
+- F1: Spotify
+- F2: Discord
+- F3: Firefox
+- F4: Obsidian
+- F5: Notepad++
+- F6: Cloudflare WARP
+- F7: GitHub Desktop
+- F8: Outlook
+- F9: Youtube
+- F10: KeePass
+
+### ahk-open-apps-laptop
+
+  Same as *ahk-open-apps* but is controlled with Ctrl+Alt+Number rather than function keys.
