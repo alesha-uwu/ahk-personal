@@ -6,10 +6,10 @@ all ahk scripts that I have made for personal use
 #### ahk-main
   Contains most of the actually useful scripts that I will use
   Currently contains the scripts:
-    \- *ahk-spotify-control*
-    \- *ahk-quick-search*
-    \- *ahk-different-capslock*
-    \- *ahk-wasd-to-mouse*
+- *ahk-spotify-control*
+- *ahk-quick-search*
+- *ahk-different-capslock*
+- *ahk-wasd-to-mouse*
 
 #### ahk-main-laptop
   Nearly identical to *ahk-main*, but adjusted for a qwerty keyboard
