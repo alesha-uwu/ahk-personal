@@ -17,5 +17,10 @@ all ahk scripts that I have made for personal use
 ### ahk-uwu-conlang
   Converts between English and the uwu conlang
   
+  **Doesn't start suspended**
+  
 ### ahk-uwu
   Consists of uwu-ifying text and various copypastas
+  
+  **Doesn't start suspended**
+ 
