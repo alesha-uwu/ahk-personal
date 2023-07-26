@@ -1,15 +1,31 @@
-﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
+#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
-
-
-
-; start and stop
+;start suspended 
 
 Suspend
-^!o::Suspend
+
+;define and set icons
+
+Icon_Active = D:\Auto Hot Key\ahk-personal\ico\uwu-active.ico
+Icon_Suspended = D:\Auto Hot Key\ahk-personal\ico\uwu-suspended.ico
+
+IfExist, %Icon_Suspended%
+  Menu, Tray, Icon, %Icon_Suspended%
+return
+
+
+;control suspension and change icon
+
+^!o::
+Suspend
+IF A_ISSUSPENDED = 1
+Menu, tray, icon, %Icon_Suspended%, , 1
+else if A_ISSUSPENDED = 0
+Menu, tray, icon, %Icon_Active%, , 1
+return
 
 ;common phrases
 
