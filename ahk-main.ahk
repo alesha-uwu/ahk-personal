@@ -100,7 +100,7 @@ return
 
 ;pin window to be always on top
 
-^space::
+^+space::
   Winset, Alwaysontop, , A
 return
 

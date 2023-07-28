@@ -77,7 +77,7 @@ all ahk scripts that I have made for personal use
   
 ### ahk-pin-window
 
-  Pins the current window to the top of the stack order when you press Ctrl+Space
+  Pins the current window to the top of the stack order when you press Ctrl+Shift+Space
   
   **Doesn't start suspended**
   

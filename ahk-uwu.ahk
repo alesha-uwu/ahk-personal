@@ -32,6 +32,7 @@ return
 ::watdis::OwO What's This?
 ::glhf::good wuck have fwun evewyone :3
 ::diff::diff :3
+::fucky::OOPSIE WOOPSIE!! Uwu We make a fucky wucky!! A wittle fucko boingo!
 
 ;copy pastas
 
@@ -3056,14 +3057,14 @@ return
 ::what::wat
 
 ::gg::
-ends := ["gg <3", "gg ♥", "gg :3"]
+ends := ["gg <3", "gg :3"]
 Random, num, 1, ends.Length()
 sendData := ends[num]
 SendInput %sendData%
 return
 
 ::gr::
-ends := ["gr <3", "gr ♥", "gr :3"]
+ends := ["gr <3", "gr :3"]
 Random, num, 1, ends.Length()
 sendData := ends[num]
 SendInput %sendData%
