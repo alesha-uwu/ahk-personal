@@ -40,6 +40,7 @@ return
 ::pastapowice::UwU This is the LA Powice Depawtment, we awe fowwowing up on a sewies of weports of that youw huge bolgy wolgy has been distuwbing the peace in the neighbowhood, so we will be taking you and youw bolgy wolgy OwO into ouw custody, and it is pawt of the pwoceduwe fow us to nuzzle and wuzzle youw necky wecky ~ murr~ hehe UwU
 ::pastagod::God is dead. God wemains dead. And we have kiwwed him.
 ::pastagodfull::God is dead. God wemains dead. And we have kiwwed him. How shaww we comfowt ouwsewves, the mwuwdewews of aww mwuwdewews?? what was howiest and mwightiest of aww that the wowwd has yet owned has bwed to death undew ouw knives: who wiww wipe this bwood off us?? what watew is thewe fow us to cwean ouwsewves?? what festivaws of atonement, what sacwed games shaww we have to invent?? is not the gweatness of this deed too gweat fow us?? mwust we ouwsewves not become gods simpwy to appeaw wowthy of it? UwU 
+::pastamwistakes:: we aww faiw. we aww make mwistakes. it's what mawkes us human UwU
 
 ;special characters
 
