@@ -41,6 +41,7 @@ return
 ::pastagod::God is dead. God wemains dead. And we have kiwwed him.
 ::pastagodfull::God is dead. God wemains dead. And we have kiwwed him. How shaww we comfowt ouwsewves, the mwuwdewews of aww mwuwdewews?? what was howiest and mwightiest of aww that the wowwd has yet owned has bwed to death undew ouw knives: who wiww wipe this bwood off us?? what watew is thewe fow us to cwean ouwsewves?? what festivaws of atonement, what sacwed games shaww we have to invent?? is not the gweatness of this deed too gweat fow us?? mwust we ouwsewves not become gods simpwy to appeaw wowthy of it? UwU 
 ::pastamwistakes:: we aww faiw. we aww make mwistakes. it's what mawkes us human UwU
+::pastamwusket::Own a mwusket fow home defwense, since thawt's whawt the fwounding fwathews intended. Fouw wuffians bweak intwo my house. "OwO wat dis?" as i gwab my powdewed wig awnd kentucky wifle. Bwow a gowf baww sized howe thwough the fiwst man, he's dead own the spot. Dwaw my pistow own the second man, miss him entiwewy because iwt's smoothbowe awnd naiws the neighbows dog. I have tuwu wesowt tuwu the cannon mounted at the top of the staiws woaded with gwape shot, "tawwy ho wads" the gwape shot shweds two men in the bwast, the sound awnd extwa shwapnew set off caw awawms. Fix bayonet awnd chawge the wast tewwified wapscawwion. He bweeds out waiting own the powice tuwu awwive since twianguwaw bayonet wounds awe impossibwe tuwu stitch up. Juwst as the founding fathews intended. 
 
 ;special characters
 

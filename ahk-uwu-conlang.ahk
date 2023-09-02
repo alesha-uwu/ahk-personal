@@ -31,5 +31,3 @@ return
 ; english to uwu
 
 ; uwu to english
-
-::gg::abc
