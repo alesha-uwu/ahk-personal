@@ -66,7 +66,7 @@ CapsLock:: Send {BackSpace}
 	
 ^!i::
 ^!j::
-^!k::
+^!m::
 ^!l::
 loop 
 {
@@ -74,12 +74,12 @@ loop
 		DllCall("mouse_event", uint, 1, int, 0, int, -8, uint, 0, int, 0)
 	if getkeystate("j")
 		DllCall("mouse_event", uint, 1, int, -8, int, 0, uint, 0, int, 0)
-	if getkeystate("k")
+	if getkeystate("m")
 		DllCall("mouse_event", uint, 1, int, 0, int, 8, uint, 0, int, 0)
 	if getkeystate("l")		
 		DllCall("mouse_event", uint, 1, int, 8, int, 0, uint, 0, int, 0)
 	sleep 10	; increase/decrease this to adjust the repeat rate
-} until !(getkeystate("i") || getkeystate("j") || getkeystate("k") || getkeystate("l"))
+} until !(getkeystate("i") || getkeystate("j") || getkeystate("m") || getkeystate("l"))
 return
 
 ^!z::
